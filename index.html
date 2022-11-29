@@ -1,13 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Tienda Objeto</title>
 </head>
+
 <body>
 
-    <script src="./miarchivo.js"> </script>
+    <!-- navbar -->
+    <div class="nav-container">
+        <nav class="navbar">
+            <h2 class="navbar-logo">Productos</h2>
+            <h2 class="ver-carrito" id="verCarrito"> 🛒 <span id="cantidadCarrito" class="cantidad-carrito"></span>
+            </h2>
+        </nav>
+    </div>
+
+    <!-- banner -->
+    <div class="banner">
+        <div class="banner-container">
+            <h1>TIENDA OBJETO</h1>
+            <p>El mejor lugar donde encontrar los productos para tu hogar</p>
+        </div>
+    </div>
+
+    <!-- contenedor principal -->
+
+    <div id="shopContainer" class="shop-container"></div>
+
+    <!-- contenedor modal -->
+
+    <div id="modalContainer" class="modal-container"></div>
+
+
+    <script src="./js/products.js"></script>
+    <script src="./js/miarchivo.js"> </script>
+    <script src="./js/carrito.js"></script>
 </body>
+
 </html>
