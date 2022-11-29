@@ -30,13 +30,28 @@
     cursor: pointer;
 }
 
-/* banner */
+.buscador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#nombreProducto {
+    color: white;
+    background-color: #e1d0d1;
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+
 .ver-carrito {
     font-size: 35px;
     margin-right: 20px;
     margin-top: 3.5vh;
     cursor: pointer;
 }
+/* banner */
 
 .banner {
     background-color: #e1d0d1;
@@ -202,3 +217,5 @@
 .restar{
     cursor: pointer;
 }
+
+
