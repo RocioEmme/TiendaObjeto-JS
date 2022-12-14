@@ -30,7 +30,7 @@
     cursor: pointer;
 }
 
-.buscador{
+.buscador {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -51,6 +51,7 @@
     margin-top: 3.5vh;
     cursor: pointer;
 }
+
 /* banner */
 
 .banner {
@@ -112,7 +113,7 @@
     border: none;
     padding: 12px;
     color: white;
-    background-color: #90a9b0;
+    background-color: #e1d0d1;
     text-align: center;
     cursor: pointer;
     width: 100%;
@@ -127,7 +128,7 @@
 
 /* modal */
 
-.modal-container{
+.modal-container {
     width: 70%;
     margin: 0 10%;
     max-height: 80vh;
@@ -144,11 +145,11 @@
     font-size: 25px;
 }
 
-.modal-container::-webkit-scrollbar{
-    display:none;
+.modal-container::-webkit-scrollbar {
+    display: none;
 }
 
-.modal-header{
+.modal-header {
     display: flex;
     justify-content: space-around;
     background-color: #e1d0d1;
@@ -156,37 +157,38 @@
     width: 100%;
 }
 
-.modal-header-title{
+.modal-header-title {
     justify-self: start;
     padding: 20px;
     text-decoration: underline;
 }
 
-.modal-header-button{
+.modal-header-button {
     cursor: pointer;
     padding: 20px;
     font-weight: bold;
 }
-.modal-header-button:hover{
+
+.modal-header-button:hover {
     color: #90a9b0;
 }
 
-.modal-container > .modal-content{
-    display:flex;
+.modal-container>.modal-content {
+    display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width:70%;
-    margin:10px;
+    width: 70%;
+    margin: 10px;
     gap: 40px;
 }
 
-.modal-container > div >img {
+.modal-container>div>img {
     height: 100px;
-    width:100px;
+    width: 100px;
 }
 
-.total-content{
+.total-content {
     font-size: 25px;
     font-weight: bold;
     padding: 20px;
@@ -194,11 +196,11 @@
     padding-top: 20px;
 }
 
-.delete-product{
+.delete-product {
     cursor: pointer;
 }
 
-.cantidad-carrito{
+.cantidad-carrito {
     background-color: #e1d0d1;
     color: white;
     border-radius: 50%;
@@ -210,12 +212,22 @@
     display: none;
 }
 
-.sumar{
+.sumar {
     cursor: pointer;
 }
 
-.restar{
+.restar {
     cursor: pointer;
 }
 
+/* footer */
 
+.pieDePagina {
+    background-color: #90a9b0;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 10px;
+}

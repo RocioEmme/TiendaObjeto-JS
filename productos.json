@@ -5,7 +5,7 @@
         "precio": 1800,
         "categoria": "Cocina",
         "img": "./img/guantesSilicona.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 11,
@@ -13,7 +13,7 @@
         "precio": 1600,
         "categoria": "Cocina",
         "img": "./img/escurridor.jpeg",
-       "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 21,
@@ -21,7 +21,7 @@
         "precio": 5400,
         "categoria": "Cocina",
         "img": "./img/botellaFrioCalor.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 31,
@@ -29,8 +29,7 @@
         "precio": 1600,
         "categoria": "Cocina",
         "img": "./img/cubiertos.jpeg",
-        "cantidad":1
-        
+        "cantidad": 1
     },
     {
         "id": 41,
@@ -38,7 +37,7 @@
         "precio": 1400,
         "categoria": "Cocina",
         "img": "./img/setDispenser.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 51,
@@ -46,7 +45,7 @@
         "precio": 680,
         "categoria": "Cocina",
         "img": "./img/filtroPileta.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 61,
@@ -54,7 +53,7 @@
         "precio": 700,
         "categoria": "Cocina",
         "img": "./img/soporteEscoba.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 71,
@@ -62,7 +61,7 @@
         "precio": 1400,
         "categoria": "Cocina",
         "img": "./img/cubeteraSilicona.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 81,
@@ -70,7 +69,7 @@
         "precio": 2100,
         "categoria": "Cocina",
         "img": "./img/tupperEscurridor.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 91,
@@ -78,15 +77,15 @@
         "precio": 1280,
         "categoria": "Cocina",
         "img": "./img/colador.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 101,
         "nombre": "Dispenser de Plástico",
         "precio": 600,
         "categoria": "Cocina",
-       "img": "./img/dispenserPlastico.jpeg",
-        "cantidad":1
+        "img": "./img/dispenserPlastico.jpeg",
+        "cantidad": 1
     },
     {
         "id": 111,
@@ -94,7 +93,7 @@
         "precio": 1040,
         "categoria": "Cocina",
         "img": "./img/huevo.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 2,
@@ -102,7 +101,7 @@
         "precio": 3400,
         "categoria": "Iluminación",
         "img": "./img/guirnaldaBroche.jpeg",
-        "cantidad":1 
+        "cantidad": 1
     },
     {
         "id": 12,
@@ -110,7 +109,7 @@
         "precio": 4100,
         "categoria": "Iluminación",
         "img": "./img/guirnaldaFoco.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 22,
@@ -118,7 +117,7 @@
         "precio": 2400,
         "categoria": "Iluminación",
         "img": "./img/guirnaldaFlamenco.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 32,
@@ -126,7 +125,7 @@
         "precio": 2980,
         "categoria": "Iluminación",
         "img": "./img/guirnaldaAnana.png",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 42,
@@ -134,7 +133,7 @@
         "precio": 750,
         "categoria": "Iluminación",
         "img": "./img/ledCelular.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 52,
@@ -142,7 +141,7 @@
         "precio": 4350,
         "categoria": "Iluminación",
         "img": "./img/aroLed.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 62,
@@ -150,7 +149,7 @@
         "precio": 3600,
         "categoria": "Iluminación",
         "img": "./img/lamparaGatito.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 72,
@@ -158,7 +157,7 @@
         "precio": 3800,
         "categoria": "Iluminación",
         "img": "./img/cartelLEd.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 3,
@@ -166,7 +165,7 @@
         "precio": 1850,
         "categoria": "Organizadores",
         "img": "./img/orgViaje.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 13,
@@ -174,7 +173,7 @@
         "precio": 1250,
         "categoria": "Organizadores",
         "img": "./img/orgCartera.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 23,
@@ -182,15 +181,15 @@
         "precio": 1610,
         "categoria": "Organizadores",
         "img": "./img/orgMaquillaje.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 33,
         "nombre": "Portapasaporte",
         "precio": 2500,
         "categoria": "Organizadores",
-        "img":"./img/pasaporte.jpeg",
-        "cantidad":1
+        "img": "./img/pasaporte.jpeg",
+        "cantidad": 1
     },
     {
         "id": 43,
@@ -198,7 +197,7 @@
         "precio": 2200,
         "categoria": "Organizadores",
         "img": "./img/estante.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 53,
@@ -206,7 +205,7 @@
         "precio": 2900,
         "categoria": "Organizadores",
         "img": "./img/especias.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 63,
@@ -214,7 +213,7 @@
         "precio": 2200,
         "categoria": "Organizadores",
         "img": "./img/orgColgante.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 73,
@@ -222,7 +221,7 @@
         "precio": 900,
         "categoria": "Organizadores",
         "img": "./img/soporteTazas.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 83,
@@ -230,7 +229,7 @@
         "precio": 800,
         "categoria": "Organizadores",
         "img": "./img/broche.png",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 93,
@@ -238,7 +237,7 @@
         "precio": 1400,
         "categoria": "Organizadores",
         "img": "./img/canastoCocina.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 103,
@@ -246,7 +245,7 @@
         "precio": 3800,
         "categoria": "Organizadores",
         "img": "./img/acrilico.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 113,
@@ -254,7 +253,7 @@
         "precio": 10200,
         "categoria": "Organizadores",
         "img": "./img/portaCosmeticos.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 123,
@@ -262,7 +261,7 @@
         "precio": 9400,
         "categoria": "Organizadores",
         "img": "./img/capsulaCosmet.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 133,
@@ -270,7 +269,7 @@
         "precio": 3100,
         "categoria": "Organizadores",
         "img": "./img/setCuatro.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 4,
@@ -278,7 +277,7 @@
         "precio": 6200,
         "categoria": "Difusores",
         "img": "./img/difusorG.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 14,
@@ -286,7 +285,7 @@
         "precio": 7200,
         "categoria": "Difusores",
         "img": "./img/difusorMediano.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 24,
@@ -294,7 +293,7 @@
         "precio": 9800,
         "categoria": "Difusores",
         "img": "./img/difusorMadera.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 34,
@@ -302,7 +301,7 @@
         "precio": 4900,
         "categoria": "Difusores",
         "img": "./img/humificadorLuna.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 44,
@@ -310,7 +309,7 @@
         "precio": 6200,
         "categoria": "Difusores",
         "img": "./img/difusorCilind.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 54,
@@ -318,7 +317,7 @@
         "precio": 5800,
         "categoria": "Difusores",
         "img": "./img/difusorGota.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 64,
@@ -326,7 +325,7 @@
         "precio": 10200,
         "categoria": "Difusores",
         "img": "./img/difusorDise.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 74,
@@ -334,7 +333,7 @@
         "precio": 900,
         "categoria": "Difusores",
         "img": "./img/esencia.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 84,
@@ -342,7 +341,7 @@
         "precio": 800,
         "categoria": "Difusores",
         "img": "./img/sprayChico.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 94,
@@ -350,7 +349,7 @@
         "precio": 1400,
         "categoria": "Difusores",
         "img": "./img/sprayGrande.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 104,
@@ -358,7 +357,7 @@
         "precio": 1400,
         "categoria": "Difusores",
         "img": "./img/varillas.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 114,
@@ -366,7 +365,7 @@
         "precio": 540,
         "categoria": "Difusores",
         "img": "./img/difusorAuto.jpeg",
-        "cantidad":1
+        "cantidad": 1
     },
     {
         "id": 124,
@@ -374,6 +373,6 @@
         "precio": 1480,
         "categoria": "Difusores",
         "img": "./img/repuesto.jpeg",
-        "cantidad":1
+        "cantidad": 1
     }
 ]
